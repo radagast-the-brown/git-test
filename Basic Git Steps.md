@@ -1,6 +1,6 @@
-#BASIC GIT STEPS
+# BASIC GIT STEPS
 
-##BASICS
+## BASICS
 1. Create a repository on GitHub.
 2. Select the SSH and copy it.
 3. In Terminal, run `git clone *paste SSH here*`
